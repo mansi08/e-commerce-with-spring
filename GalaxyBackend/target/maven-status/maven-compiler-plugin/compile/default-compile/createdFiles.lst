@@ -1,0 +1,13 @@
+com\GalaxyBackend\dao\impl\UserDaoImpl.class
+com\GalaxyBackend\model\Supplier.class
+com\GalaxyBackend\dao\UserDao.class
+com\GalaxyBackend\model\Product.class
+com\GalaxyBackend\config\DBConfig.class
+com\GalaxyBackend\dao\ProductDao.class
+com\GalaxyBackend\dao\SupplierDao.class
+com\GalaxyBackend\model\Category.class
+com\GalaxyBackend\dao\impl\SupplierDaoImpl.class
+com\GalaxyBackend\model\User.class
+com\GalaxyBackend\dao\impl\ProductDaoImpl.class
+com\GalaxyBackend\dao\CategoryDao.class
+com\GalaxyBackend\dao\impl\CategoryDaoImpl.class

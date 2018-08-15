@@ -1,0 +1,5 @@
+com\GalaxyBackend\test\UserDaoTest.class
+com\GalaxyBackend\test\CategoryDaoTest.class
+com\GalaxyBackend\test\SupplierDaoTest.class
+com\GalaxyBackend\AppTest.class
+com\GalaxyBackend\test\ProductDaoTest.class
